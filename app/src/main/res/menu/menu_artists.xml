@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/period_selector"
+        android:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/overall"
+                android:title="Overall" />
+            <item
+                android:id="@+id/monthly"
+                android:title="Monthly" />
+            <item
+                android:id="@+id/weekly"
+                android:title="Weekly"/>
+        </menu>
+    </item>
+
+</menu>

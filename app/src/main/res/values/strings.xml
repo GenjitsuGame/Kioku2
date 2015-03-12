@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kioku</string>
+    <string name="ACCOUNT_TYPE">fm.last.android.account</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_information_chanson">InformationChansonActivity</string>
+    <string name="title_activity_chanson_recente">ChansonRecente</string>
+   <string name="hello_world">Login Screen</string>
+   <string name="username">Username:</string>
+   <string name="password">Password:</string>
+   <string name="Login">Login:</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="period_selector">période</string>
+
+
+</resources>
